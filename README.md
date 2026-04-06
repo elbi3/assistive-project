@@ -5,7 +5,7 @@
 https://www.figma.com/board/Cxyqbenf3BaFexlc0ShScS/Untitled?node-id=2-1989&t=28EJR1aGsF4wZP7F-0
 
 ## application flow
-barcode scan --> fetch ingredients & nutrition data --> run deterministic assessment logic --> send results to LLM with prompt for ingredient classification --> compute food score --> generate explanation with second AI call
+barcode scan --> fetch ingredients & nutrition data --> send results to LLM with prompt for ingredient classification --> run deterministic assessment logic -->  compute food score --> generate explanation with second AI call
 
 ## ai use
 - ingredient classification
