@@ -14,21 +14,21 @@ barcode scan --> fetch ingredients & nutrition data --> run deterministic assess
 
 ## data handling
 
-deterministic logic
-selective AI handling
+- deterministic logic
+- selective AI handling
 
 ## technologies
 1. barcode scanner
 https://www.npmjs.com/package/html5-qrcode
-2. Vue.js front-end & NativeScript-Vue mobile application
+2. Streamlit or Vue.js front-end & NativeScript-Vue mobile application
 https://nativescript-vue.org/
 3. Python: Request library
 4. HuggingFace API
 
 ## application expansion
-add pattern detection and learning to improve scoring
-add personalization 
-add company and manufacturer data. include news articles, studies, and other available public information
+- add pattern detection and learning to improve scoring
+- add personalization 
+- add company and manufacturer data. include news articles, studies, and other available public information
 
 ## additional questions
 How to handle food without a barcode? an apple?
